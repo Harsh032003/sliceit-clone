@@ -1,0 +1,120 @@
+body {
+  background-color: rgb(193, 156, 209);
+  font-family: sans-serif;
+}
+
+.s1-nav {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+
+.s1-div {
+  color: rgb(158, 43, 207);
+  font-size: 30px;
+  padding: 20px;
+  font-weight: bolder;
+}
+.s1-btn {
+  font-size: 20px;
+  background-color: white;
+  border: solid 2px rgb(158, 43, 207);
+  border-radius: 20px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+}
+
+.s1-btn:hover {
+  background-color: rgb(158, 43, 207);
+  color: white;
+}
+.s1-img {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+
+.search-container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding: 10px 30px;
+  margin-top: 50px;
+  background: white;
+  font-size: 17px;
+  border: solid 2px black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.form {
+  padding: 6px;
+  width: fit-content;
+}
+
+.search-btn {
+  padding: 10px;
+  color: black;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding-bottom: 100px;
+}
+.s2-btn {
+  width: 10%;
+  border-radius: 20px;
+  height: 200px;
+  border: solid 0px rgb(43, 125, 207);
+}
+
+.s2-btn:hover {
+  background-color: rgb(232, 199, 138);
+}
+
+.s2-img {
+  width: 50px;
+}
+
+.btn-txt {
+  color: black;
+  font-size: 25px;
+}
+
+.s3-flex1,
+.s3-flex2 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.s3-txt {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
+
+.s3-btn1 {
+  border-radius: 10px;
+  height: 20px;
+  border: solid 0px;
+  padding: 10px;
+  height: 100px;
+  width: 200px;
+  margin-bottom: 20px;
+  color: rgb(158, 43, 207);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.s3-btn1:hover {
+  background-color: rgb(158, 43, 207);
+  color: white;
+}
+
+/* rgb(158, 43, 207) */
