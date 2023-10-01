@@ -1,11 +1,11 @@
 body {
-  background-color: white;
+  background-color: black;
 }
 
 .main {
   margin: auto;
   width: 90%;
-/*   height: 1000px; */
+  height: 1000px;
   background-color: rgb(250, 196, 59);
 }
 
